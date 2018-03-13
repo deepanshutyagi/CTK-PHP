@@ -11,7 +11,7 @@ All client methods are easy-to-use and user should be able to execute all the en
 To install run the following command:
 
 ```
-git clone https://github.com/CentraTech/CTK-API-SDK-PHP.git
+git clone https://github.com/CentraTech/CTK-PHP.git
 ```
 
 After you have cloned it to the directoy of your choice, simply include the composer autoload file anywhere in your code:
